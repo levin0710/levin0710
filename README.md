@@ -22,6 +22,6 @@ and Web3 topics with 10 quiz questions per lesson (JavaScript, React Native, Git
 - Back-end development.
 - Soccer and Fitness.
 
-💬 Reach me by email or LinkedIn! sanchez.le@northeastern | www.linkedin.com/in/levin-sánchez
+💬 Reach me by email or LinkedIn! sanchez.le@northeastern.edu | www.linkedin.com/in/levin-sánchez
 
 📫 Visit my website: https://levin0710.github.io
