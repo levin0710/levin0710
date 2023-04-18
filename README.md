@@ -4,7 +4,7 @@ My name is Levin and I'm a computer science student from Dominican Republic. Her
 
 ⚡ Work experience: <br> 
 
-- Incoming Software Engineer intern at Salesforce [San Francisco, CA. Summer 2023]
+- Software Engineer intern at Salesforce [San Francisco, CA. Summer 2023]
 
 - Software Developer at Disrupt - The FinTech Initiative [Boston, MA. Fall 2022]
 
