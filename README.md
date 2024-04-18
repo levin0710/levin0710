@@ -4,6 +4,10 @@ My name is Levin and I'm a computer science student from Dominican Republic. Her
 
 ⚡ Work experience: <br> 
 
+- Software Engineer intern at Asana [New York, NY. Summer 2024]
+
+- Software Engineer intern at Datadog [New York, NY. Winter 2024]
+
 - Software Engineer intern at Salesforce [San Francisco, CA. Summer 2023]
 
 - Software Developer at Disrupt - The FinTech Initiative [Boston, MA. Fall 2022]
