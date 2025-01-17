@@ -17,8 +17,7 @@ My name is Levin and I'm a computer science student from Dominican Republic. Her
 
 🔭 Current project:
 
-- Building Disrupt App, the club’s official IOS/Android mobile application. Incorporating 70+ educational lessons on Finance, FinTech,
-and Web3 topics with 10 quiz questions per lesson (JavaScript, React Native, Git, Expo, Firebase).
+- Building...
 
 
 🌱 Interests:
