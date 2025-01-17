@@ -3,6 +3,7 @@
 My name is Levin and I'm a computer science student from Dominican Republic. Here's some info about me!
 
 ⚡ Work experience: <br> 
+- Software Engineer at Asana [New York, NY. Summer 2025]
 
 - Software Engineer intern at Asana [New York, NY. Summer 2024]
 
@@ -23,8 +24,8 @@ My name is Levin and I'm a computer science student from Dominican Republic. Her
 🌱 Interests:
 
 - Back-end development.
-- Soccer and Fitness.
+- Soccer, Fashion and Films.
 
 💬 Reach me by email or LinkedIn! sanchez.le@northeastern.edu | www.linkedin.com/in/levin-sánchez
 
-📫 Visit my website: https://levin0710.github.io
+📫 Visit my website: https://www.levinsanchez.com
