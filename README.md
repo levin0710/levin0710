@@ -3,7 +3,7 @@
 My name is Levin and I'm a computer science student from Dominican Republic. Here's some info about me!
 
 ⚡ Work experience: <br> 
-- Software Engineer at Asana [New York, NY. Summer 2025]
+- Software Engineer at Asana [New York, NY]
 
 - Software Engineer intern at Asana [New York, NY. Summer 2024]
 
