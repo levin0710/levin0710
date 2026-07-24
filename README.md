@@ -26,6 +26,6 @@ My name is Levin and I'm a software engineer from Dominican Republic. Here's som
 - Back-end development.
 - Soccer, Fashion and Films.
 
-💬 Reach me by email or LinkedIn! sanchez.le@northeastern.edu | www.linkedin.com/in/levin-sánchez
+💬 Reach me by email or LinkedIn! levinsanchezwillems@gmail.com | www.linkedin.com/in/levin-sánchez
 
 📫 Visit my website: https://www.levinsanchez.com
