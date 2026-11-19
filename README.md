@@ -16,7 +16,7 @@ My name is Levin and I'm a software engineer from Dominican Republic. Here's som
 - Teaching Assistant at Northeastern University for the course Fundamentals of Computer Science I. [Boston, MA. Fall 2022]
 
 
-🔭 Current project:
+🔭 Current projects:
 
 - [Oyster](https://github.com/colorstackorg/oyster) Admin/Maintainer
 
